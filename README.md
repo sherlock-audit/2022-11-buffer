@@ -1,6 +1,6 @@
-# {project} contest details
+# Buffer Finance contest details
 
-- 50,000 USDC main award pot
+- 21,800 USDC main award pot
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
@@ -9,8 +9,10 @@
 
 # Resources
 
-- [resource1](url)
-- [resource2](url)
+- [Website](https://buffer.finance/)
+- [Twitter](https://twitter.com/Buffer_Finance)
+- [GitHub](https://github.com/Buffer-Finance)
+- [Medium](https://buffer-finance.medium.com/)
 
 # On-chain context
 
@@ -25,4 +27,4 @@ ADMIN: [trusted, restricted, n/a]
 
 # Audit scope
 
-# About {project}
+# About TBD
