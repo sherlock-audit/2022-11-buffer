@@ -9,6 +9,6 @@
   "github_team": "buffer",
   "logo_url": "https://pbs.twimg.com/profile_images/1508790799202660354/Qk6pjeZ3_400x400.jpg",
   "private": false,
-  "lead_senior_auditor_handle": "handle",
-  "team_handles": ["bufferfinance"]
+  "lead_senior_auditor_handle": null,
+  "team_handles": ["bufferfinance", "tesla10107", "elizabeth1511"]
 }
