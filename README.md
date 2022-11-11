@@ -27,4 +27,4 @@ ADMIN: [trusted, restricted, n/a]
 
 # Audit scope
 
-# About TBD
+# About Buffer Finance
