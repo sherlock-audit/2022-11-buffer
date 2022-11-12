@@ -13,18 +13,30 @@
 - [Twitter](https://twitter.com/Buffer_Finance)
 - [GitHub](https://github.com/Buffer-Finance)
 - [Medium](https://buffer-finance.medium.com/)
+- [Smart Contract Overview](https://docs.google.com/document/d/1mgnjQ1n5nbKeSUjqY5av2akqBq_hmQrVAZeD4Gh5Cao)
 
 # On-chain context
 
-TO FILL IN BY PROTOCOL
-
 ```
-DEPLOYMENT: [e.g. mainnet, arbitrum, optimism, ..]
-ERC20: [e.g. any, none, USDC, USDC and USDT]
-ERC721: [e.g. any, none, UNI-V3]
-ADMIN: [trusted, restricted, n/a]
+DEPLOYMENT: arbitrum
+ERC20: any
+ERC721: none
+ADMIN: trusted
 ```
 
 # Audit scope
+The following contracts in the [Buffer-Protocol-v2 @ bfc1c77](https://github.com/bufferfinance/Buffer-Protocol-v2/tree/bfc1c7757f49415bebc868ccde9dc794903fd712) repo are in scope.
+
+-   `BufferBinaryOptions.sol`
+-   `BufferBinaryPool.sol`
+-   `BufferRouter.sol`
+-   `OptionsConfig.sol`
+-   `ReferralStorage.sol`
 
 # About Buffer Finance
+
+Short-term options trading platform
+
+Buffer Finance is a decentralized options trading platform that offers fast-paced trading of short-expiry options (<24 hrs) for both crypto and non-crypto markets (like forex, commodities, indexes, and stocks via decentralized price feeds).
+
+With Buffer crypto-native traders, can harness the price volatility of different assets completely on-chain with a pre-defined risk/reward ratio and without the risk of liquidation, scam-wicks or any funding rates.
