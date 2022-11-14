@@ -26,7 +26,7 @@ ADMIN: trusted
 
 # Audit scope
 
-The following contracts in the [Buffer-Protocol-v2 @ 3d9bd24](https://github.com/bufferfinance/Buffer-Protocol-v2/tree/3d9bd241f67c036f4447e4cc5cea0cca9a474c79) repo are in scope.
+The following contracts in the [Buffer-Protocol-v2 @ 83d85d9](https://github.com/bufferfinance/Buffer-Protocol-v2/tree/83d85d9b18f1a4d09c728adaa0dde4c37406dfed) repo are in scope.
 
 -   `BufferBinaryOptions.sol`
 -   `BufferBinaryPool.sol`
